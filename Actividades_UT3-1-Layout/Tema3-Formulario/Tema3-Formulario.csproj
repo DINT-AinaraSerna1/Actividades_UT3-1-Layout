@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Tema3_Formulario</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="foto.jpg" />
+    <None Remove="resources\foto.jpg" />
+    <None Remove="resources\info.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="foto.jpg" />
+    <Resource Include="resources\foto.jpg" />
+    <Resource Include="resources\info.png" />
+  </ItemGroup>
+
+</Project>
