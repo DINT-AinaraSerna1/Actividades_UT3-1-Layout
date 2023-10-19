@@ -18,3 +18,4 @@ C:\Users\alumno\Documents\DAM2\DINT\Tema 3\Prácticas\Actividades_UT3-1-Layout\A
 C:\Users\alumno\Documents\DAM2\DINT\Tema 3\Prácticas\Actividades_UT3-1-Layout\Actividades_UT3-1-Layout\Tema3-Formulario\obj\Debug\net6.0-windows\Tema3-Formulario.pdb
 C:\Users\alumno\Documents\DAM2\DINT\Tema 3\Prácticas\Actividades_UT3-1-Layout\Actividades_UT3-1-Layout\Tema3-Formulario\obj\Debug\net6.0-windows\Tema3-Formulario.genruntimeconfig.cache
 C:\Users\alumno\Documents\DAM2\DINT\Tema 3\Prácticas\Actividades_UT3-1-Layout\Actividades_UT3-1-Layout\Tema3-Formulario\obj\Debug\net6.0-windows\ref\Tema3-Formulario.dll
+C:\Users\alumno\Documents\DAM2\DINT\Tema 3\Prácticas\Actividades_UT3-1-Layout\Actividades_UT3-1-Layout\Tema3-Formulario\obj\Debug\net6.0-windows\Tema3-Formulario_Content.g.cs
